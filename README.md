@@ -21,6 +21,7 @@ The Wonderfull (now free) Automation Program: Quick Macros - automation software
 The original Microsoft SignTools.exe (from Windows SDK 10 package - Folder: Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86 - ONLY 32 BIT COMPONENT WORKS CORRECT!!!) - must be placed in the same folder as Inno Setup Compiler or in the same Folder of INNO SignTool Runner (e.g. in Subfolder "Plugins") or in a Subfolder from them named "CERT"
 
 And of course you also need a suitable (ev. self-created...) SIGN (*.pfx) file for code certification (i put them in the Subfolder ...\CERT)..
+(see good Article: https://www.windowspro.de/script/new-selfsignedcertificate-selbstsignierte-zertifikate-ausstellen-powershell)
 
 To use a signing, you must make first an Entry in Inno Setup Compiler Menu under Tools, Configure Sign Tool:
 

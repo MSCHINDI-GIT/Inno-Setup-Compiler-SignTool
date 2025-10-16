@@ -64,11 +64,3 @@ QML Source File can be Found in Link: https://www.libreautomate.com/forum/showth
 
 wfg. from Schindi aus Austria
 
-
-
-
-
-
-
-
-Under Construction+

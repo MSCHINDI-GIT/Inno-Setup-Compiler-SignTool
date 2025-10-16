@@ -27,7 +27,7 @@ To use a signing, you must make first an Entry in Inno Setup Compiler Menu under
 
 Name of the Sign Tool:
 e.g.
-SchindiSoft_Code_Sign
+SchindiSoft_Code_Sign,
 Command of the Sign Tool:
 e.g.  if you had create a Plugins Folder in InnoSetp Compiler ProgramFiles Folder
 ".\Plugins\Inno_SignTool.exe" sign /f ".\Plugins\CERT\SchindiSoft_CODE_CERT.pfx" /p Password_PW$ /t "http://timestamp.digicert.com" /fd SHA256 $p

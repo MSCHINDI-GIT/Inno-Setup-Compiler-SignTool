@@ -1,5 +1,5 @@
 # Inno-Setup-Compiler-SignTool
-Special Inno Setup Compiler SignTool (It retains the TIME of executable files!)
+Special Inno Setup Compiler SignTool (It retains the TIME of signed files!)
 
 Now you can automatically SIGN your compiled Inno Setup (Un-)Installer Setup.exe Files and other Files in them!
 

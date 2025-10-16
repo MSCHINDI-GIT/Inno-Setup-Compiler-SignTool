@@ -1,6 +1,8 @@
 # Inno-Setup-Compiler-SignTool
 Special Inno Setup Compiler SignTool (It retains the TIME of signed files!)
 
+Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizations of all sizes to reliably deploy software to millions of PCs worldwide.
+
 Now you can automatically SIGN your compiled Inno Setup (Un-)Installer Setup.exe Files and other Files in them!
 
 But there is a the Problem with the Sign Mechanism from Inno Setup Compiler - together with the Microsoft Sign Tool:

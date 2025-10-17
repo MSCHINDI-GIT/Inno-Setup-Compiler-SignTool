@@ -8,9 +8,9 @@ I use it for all my various Projects - love it!!!
 Now you can automatically SIGN your compiled Inno Setup (Un-)Installer Setup.exe Files and other Files in them!
 
 But there is a the Problem with the Sign Mechanism from Inno Setup Compiler - together with the Microsoft Sign Tool:
-When i use the "[Files] Flags: sign, for my various executable files, that all the Source Files Date/Time are set to the compiler time...  Sad
+When i use the "[Files] Flags: sign, for my various executable files, that all the Source Files Date/Time are set to the compiling time...  Sad
 
-That's - why I created a Signtool Starter now
+That's - why I created a Signtool Starter now...
 
 It retains the Date/Time of executable files!
 

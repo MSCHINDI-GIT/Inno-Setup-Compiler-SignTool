@@ -65,7 +65,7 @@ Source: "D:\Data\Projekte\Shared\MyTools\*.exe"; DestDir: "{app}"; Flags: ignore
 Source: "D:\Data\Projekte\Shared\MyTools\xyz.exe"; DestDir: "{app}"; Flags: ignoreversion signonce (or sign)
 ...
 
-QML Source File can be Found in Link: https://www.libreautomate.com/forum/showthread.php?tid=7879 (= Thread: Special Inno Setup Compiler SignTool...)
+QML Source and Executable File can be Found in Link: https://www.libreautomate.com/forum/showthread.php?tid=7879 (= Thread: Special Inno Setup Compiler SignTool...)
 
 wfg. from Schindi aus Austria
 
